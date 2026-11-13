@@ -6,6 +6,7 @@ plugins {
 }
 
 dependencies {
+    implementation(projects.easybitmapsCommon)
     implementation("com.github.TheBjoRedCraft.railway:railway-config:1.0.7")
     compileOnly("io.papermc.paper:paper-api:26.3.build.201-stable")
 
