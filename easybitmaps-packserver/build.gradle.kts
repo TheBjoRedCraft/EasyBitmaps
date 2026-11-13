@@ -4,6 +4,12 @@ plugins {
     id("io.ktor.plugin") version "3.0.1"
 }
 
+tasks.processResources {
+    from("../easybitmaps-resourcepack") {
+        into("resourcepack")
+    }
+}
+
 dependencies {
     api(projects.easybitmapsCommon)
     api("com.github.TheBjoRedCraft.railway:railway-config:1.0.7")

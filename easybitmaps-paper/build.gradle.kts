@@ -6,14 +6,11 @@ plugins {
 }
 
 dependencies {
-    implementation(projects.easybitmapsCommon)
-    implementation("com.github.TheBjoRedCraft.railway:railway-config:1.0.7")
+    implementation(projects.easybitmapsPackserver)
     compileOnly("io.papermc.paper:paper-api:26.3.build.201-stable")
 
     implementation("com.github.shynixn.mccoroutine:mccoroutine-folia-api:2.23.0")
     implementation("com.github.shynixn.mccoroutine:mccoroutine-folia-core:2.23.0")
-
-    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.11.0")
 }
 
 tasks {
@@ -23,7 +20,7 @@ tasks {
 }
 
 paper {
-    main = "dev.thebjoredcraft.phantom.PhantomMain"
+    main = "dev.thebjoredcraft.easybitmaps.paper.BitmapMain"
     apiVersion = "1.21"
     foliaSupported = true
 

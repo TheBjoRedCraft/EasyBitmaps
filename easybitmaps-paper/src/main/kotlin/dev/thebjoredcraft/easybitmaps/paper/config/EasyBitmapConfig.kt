@@ -12,5 +12,6 @@ data class EasyBitmapConfig(
         val host: String = "localhost",
         val port: Int = 8080,
         val publicAddress: String = "localhost:8080",
+        val packRequired: Boolean = true,
     )
 }
