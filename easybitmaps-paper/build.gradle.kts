@@ -5,12 +5,18 @@ plugins {
     id("de.eldoria.plugin-yml.paper") version "0.9.0"
 }
 
+repositories {
+    maven("https://repo.extendedclip.com/releases/")
+}
+
 dependencies {
     implementation(projects.easybitmapsPackserver)
     compileOnly("io.papermc.paper:paper-api:26.3.build.201-stable")
 
     implementation("com.github.shynixn.mccoroutine:mccoroutine-folia-api:2.23.0")
     implementation("com.github.shynixn.mccoroutine:mccoroutine-folia-core:2.23.0")
+
+    compileOnly("me.clip:placeholderapi:2.12.3")
 }
 
 tasks {
@@ -25,4 +31,10 @@ paper {
     foliaSupported = true
 
     authors = listOf("TheBjoRedCraft")
+
+    serverDependencies {
+        register("PlaceholderAPI") {
+            required = false
+        }
+    }
 }
