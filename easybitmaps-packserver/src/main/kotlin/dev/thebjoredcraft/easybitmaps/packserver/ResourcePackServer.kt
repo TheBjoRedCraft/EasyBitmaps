@@ -99,6 +99,7 @@ object ResourcePackServer {
                 }
                 digest.digest().joinToString("") { "%02x".format(it) }
             }
+
             cachedModified = modified
         }
         cachedSha1
