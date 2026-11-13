@@ -28,6 +28,7 @@ object PlayerLoginListener : Listener {
                 event.connection.audience.sendResourcePacks(
                     ResourcePackRequest.resourcePackRequest()
                         .required(plugin.config.packServer.packRequired)
+                        .replace(false)
                         .packs(pack)
                         .build()
                 )
