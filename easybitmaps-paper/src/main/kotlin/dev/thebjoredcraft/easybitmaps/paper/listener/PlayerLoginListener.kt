@@ -21,7 +21,7 @@ object PlayerLoginListener : Listener {
                 val sha1 = ResourcePackServer.sha1()
                 val pack = ResourcePackInfo.resourcePackInfo()
                     .id(UUID.nameUUIDFromBytes(plugin.config.packServer.publicAddress.toByteArray()))
-                    .uri(URI.create(plugin.config.packServer.publicAddress))
+                    .uri(URI.create("http://${plugin.config.packServer.publicAddress}/resourcepack.zip"))
                     .hash(sha1)
                     .build()
 
