@@ -3,12 +3,14 @@ package dev.thebjoredcraft.easybitmaps.common
 import dev.thebjoredcraft.easybitmaps.common.spacing.NegativeSpacing
 import dev.thebjoredcraft.easybitmaps.common.spacing.chars.BACKGROUND_GLYPH
 import dev.thebjoredcraft.easybitmaps.common.spacing.chars.CharMap
+import net.kyori.adventure.key.Key
 import net.kyori.adventure.text.Component
 import net.kyori.adventure.text.format.NamedTextColor
 import net.kyori.adventure.text.format.ShadowColor
 import net.kyori.adventure.text.format.TextColor
 
 object EasyBitmaps {
+    private val FONT: Key = Key.key("easybitmaps", "bitmap")
 
     fun render(
         text: String,
@@ -33,15 +35,15 @@ object EasyBitmaps {
 
         return buildList {
             repeat(padding) {
-                add(Component.text(BACKGROUND_GLYPH, backgroundColor))
+                add(Component.text(BACKGROUND_GLYPH, backgroundColor).font(FONT))
                 add(Component.text(NegativeSpacing.NEGATIVE_SPACE_ONE.char, backgroundColor))
             }
 
-            add(Component.text(backgroundString, backgroundColor))
+            add(Component.text(backgroundString, backgroundColor).font(FONT))
 
             repeat(padding) {
                 add(Component.text(NegativeSpacing.NEGATIVE_SPACE_ONE.char, backgroundColor))
-                add(Component.text(BACKGROUND_GLYPH, backgroundColor))
+                add(Component.text(BACKGROUND_GLYPH, backgroundColor).font(FONT))
             }
 
             add(
@@ -51,7 +53,7 @@ object EasyBitmaps {
                 ).shadowColor(shadowColor)
             )
 
-            add(Component.text(glyphs, foregroundColor).shadowColor(shadowColor))
+            add(Component.text(glyphs, foregroundColor).font(FONT).shadowColor(shadowColor))
 
             add(Component.text(NegativeSpacing.buildShifts(-totalWidth - padding)))
         }.fold(Component.empty()) { parent, child ->
