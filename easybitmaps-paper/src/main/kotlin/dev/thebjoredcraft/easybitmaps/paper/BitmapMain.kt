@@ -2,6 +2,7 @@ package dev.thebjoredcraft.easybitmaps.paper
 
 import com.github.shynixn.mccoroutine.folia.SuspendingJavaPlugin
 import dev.thebjoredcraft.easybitmaps.packserver.ResourcePackServer
+import dev.thebjoredcraft.easybitmaps.paper.command.EasyBitmapsCommand
 import dev.thebjoredcraft.easybitmaps.paper.config.EasyBitmapConfig
 import dev.thebjoredcraft.easybitmaps.paper.listener.PlayerLoginListener
 import dev.thebjoredcraft.railway.config.RailwayConfigFormat
@@ -33,6 +34,7 @@ class BitmapMain : SuspendingJavaPlugin() {
 
     override fun onEnable() {
         Bukkit.getPluginManager().registerEvents(PlayerLoginListener, this)
+        EasyBitmapsCommand.register()
     }
 
     override suspend fun onDisableAsync() {
