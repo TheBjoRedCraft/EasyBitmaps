@@ -22,7 +22,6 @@ class BitmapMain : SuspendingJavaPlugin() {
 
     override suspend fun onLoadAsync() {
         ResourcePackServer.start(logger, dataPath, config.packServer.host, config.packServer.port)
-
         Bukkit.getPluginManager().registerEvents(PlayerLoginListener, this)
     }
 
