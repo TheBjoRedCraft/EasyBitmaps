@@ -19,7 +19,7 @@ object EasyBitmaps {
         shadowColor: ShadowColor = ShadowColor.none(),
         padding: Int = 2,
     ): Component {
-        val charMapping = text.map(CharMap::byChar)
+        val charMapping = text.lowercase().map(CharMap::byChar)
         val totalWidth = charMapping.sumOf { it.width }
         val backgroundString = charMapping
             .joinToString(NegativeSpacing.NEGATIVE_SPACE_ONE.char.toString()) {
@@ -45,13 +45,7 @@ object EasyBitmaps {
                 add(Component.text(BACKGROUND_GLYPH, backgroundColor).font(FONT))
             }
 
-            add(
-                Component.text(
-                    NegativeSpacing.buildShifts(-totalWidth - padding),
-                    foregroundColor
-                ).shadowColor(shadowColor)
-            )
-
+            add(Component.text(NegativeSpacing.buildShifts(-totalWidth - padding), foregroundColor))
             add(Component.text(glyphs, foregroundColor).shadowColor(shadowColor))
 
             add(Component.text(NegativeSpacing.buildShifts(-totalWidth - padding)))
