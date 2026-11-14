@@ -19,8 +19,7 @@ object EasyBitmaps {
         shadowColor: ShadowColor = ShadowColor.none(),
         padding: Int = 2,
     ): Component {
-        val normalizedText = text.lowercase()
-        val charMapping = normalizedText.map(CharMap::byChar)
+        val charMapping = text.lowercase().map(CharMap::byChar)
         val totalWidth = charMapping.sumOf { it.width }
         val backgroundString = charMapping
             .joinToString(NegativeSpacing.NEGATIVE_SPACE_ONE.char.toString()) {

@@ -19,868 +19,1125 @@
       "file": "easybitmaps:font/background.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF0FF"]
+      "chars": [
+        "\uF0FF"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/plus.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF025"]
+      "chars": [
+        "\uF025"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/underscore.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF026"]
+      "chars": [
+        "\uF026"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/percent.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF027"]
+      "chars": [
+        "\uF027"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/equals.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF028"]
+      "chars": [
+        "\uF028"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/hash.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF029"]
+      "chars": [
+        "\uF029"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/asterisk.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF02A"]
+      "chars": [
+        "\uF02A"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/acute_accent.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF02B"]
+      "chars": [
+        "\uF02B"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/ampersand.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF02C"]
+      "chars": [
+        "\uF02C"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/bracket_close.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF02D"]
+      "chars": [
+        "\uF02D"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/bracket_open.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF02E"]
+      "chars": [
+        "\uF02E"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/circumflex.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF02F"]
+      "chars": [
+        "\uF02F"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/colon.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF030"]
+      "chars": [
+        "\uF030"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/comma.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF031"]
+      "chars": [
+        "\uF031"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/curly_bracket_close.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF032"]
+      "chars": [
+        "\uF032"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/curly_bracket_open.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF033"]
+      "chars": [
+        "\uF033"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/degree.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF034"]
+      "chars": [
+        "\uF034"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/dollar.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF035"]
+      "chars": [
+        "\uF035"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/dot.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF036"]
+      "chars": [
+        "\uF036"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/double_quote.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF037"]
+      "chars": [
+        "\uF037"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/euro.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF038"]
+      "chars": [
+        "\uF038"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/exclamation_mark.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF039"]
+      "chars": [
+        "\uF039"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/grave_accent.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF03A"]
+      "chars": [
+        "\uF03A"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/greater_than.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF03B"]
+      "chars": [
+        "\uF03B"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/hyphen.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF03C"]
+      "chars": [
+        "\uF03C"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/less_than.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF03D"]
+      "chars": [
+        "\uF03D"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/pipe.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF03E"]
+      "chars": [
+        "\uF03E"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/question_mark.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF03F"]
+      "chars": [
+        "\uF03F"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/section.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF040"]
+      "chars": [
+        "\uF040"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/semicolon.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF041"]
+      "chars": [
+        "\uF041"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/single_quote.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF042"]
+      "chars": [
+        "\uF042"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/square_bracket_close.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF043"]
+      "chars": [
+        "\uF043"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/square_bracket_open.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF044"]
+      "chars": [
+        "\uF044"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/tilde.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF045"]
+      "chars": [
+        "\uF045"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/slash.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF046"]
+      "chars": [
+        "\uF046"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/backslash.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF047"]
+      "chars": [
+        "\uF047"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/at.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF048"]
+      "chars": [
+        "\uF048"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/copyright.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF049"]
+      "chars": [
+        "\uF049"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/registered.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF04A"]
+      "chars": [
+        "\uF04A"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/trademark.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF04B"]
+      "chars": [
+        "\uF04B"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/pilcrow.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF04C"]
+      "chars": [
+        "\uF04C"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/dagger.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF04D"]
+      "chars": [
+        "\uF04D"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/double_dagger.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF04E"]
+      "chars": [
+        "\uF04E"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/bullet.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF04F"]
+      "chars": [
+        "\uF04F"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/ellipsis.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF050"]
+      "chars": [
+        "\uF050"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/en_dash.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF051"]
+      "chars": [
+        "\uF051"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/em_dash.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF052"]
+      "chars": [
+        "\uF052"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/low_double_quote.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF053"]
+      "chars": [
+        "\uF053"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/left_double_quote.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF054"]
+      "chars": [
+        "\uF054"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/right_double_quote.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF055"]
+      "chars": [
+        "\uF055"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/low_single_quote.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF056"]
+      "chars": [
+        "\uF056"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/left_single_quote.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF057"]
+      "chars": [
+        "\uF057"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/right_single_quote.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF058"]
+      "chars": [
+        "\uF058"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/left_guillemet.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF059"]
+      "chars": [
+        "\uF059"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/right_guillemet.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF05A"]
+      "chars": [
+        "\uF05A"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/left_single_guillemet.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF05B"]
+      "chars": [
+        "\uF05B"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/right_single_guillemet.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF05C"]
+      "chars": [
+        "\uF05C"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/inverted_question_mark.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF05D"]
+      "chars": [
+        "\uF05D"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/inverted_exclamation_mark.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF05E"]
+      "chars": [
+        "\uF05E"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/multiplication.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF05F"]
+      "chars": [
+        "\uF05F"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/division.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF060"]
+      "chars": [
+        "\uF060"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/plus_minus.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF061"]
+      "chars": [
+        "\uF061"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/not_equal.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF062"]
+      "chars": [
+        "\uF062"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/less_equal.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF063"]
+      "chars": [
+        "\uF063"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/greater_equal.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF064"]
+      "chars": [
+        "\uF064"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/approximately_equal.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF065"]
+      "chars": [
+        "\uF065"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/infinity.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF066"]
+      "chars": [
+        "\uF066"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/square_root.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF067"]
+      "chars": [
+        "\uF067"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/summation.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF068"]
+      "chars": [
+        "\uF068"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/product.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF069"]
+      "chars": [
+        "\uF069"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/integral.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF06A"]
+      "chars": [
+        "\uF06A"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/delta.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF06B"]
+      "chars": [
+        "\uF06B"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/partial_derivative.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF06C"]
+      "chars": [
+        "\uF06C"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/pi.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF06D"]
+      "chars": [
+        "\uF06D"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/micro.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF06E"]
+      "chars": [
+        "\uF06E"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/omega.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF06F"]
+      "chars": [
+        "\uF06F"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/cent.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF070"]
+      "chars": [
+        "\uF070"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/pound.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF071"]
+      "chars": [
+        "\uF071"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/yen.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF072"]
+      "chars": [
+        "\uF072"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/won.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF073"]
+      "chars": [
+        "\uF073"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/ruble.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF074"]
+      "chars": [
+        "\uF074"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/rupee.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF075"]
+      "chars": [
+        "\uF075"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/bitcoin.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF076"]
+      "chars": [
+        "\uF076"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/reference_mark.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF077"]
+      "chars": [
+        "\uF077"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/check_mark_light.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF078"]
+      "chars": [
+        "\uF078"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/check_mark_heavy.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF079"]
+      "chars": [
+        "\uF079"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/cross_mark_light.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF07A"]
+      "chars": [
+        "\uF07A"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/cross_mark_heavy.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF07B"]
+      "chars": [
+        "\uF07B"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/star_filled.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF07C"]
+      "chars": [
+        "\uF07C"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/star_outline.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF07D"]
+      "chars": [
+        "\uF07D"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/heart_outline.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF07E"]
+      "chars": [
+        "\uF07E"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/heart_filled.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF07F"]
+      "chars": [
+        "\uF07F"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/arrow_right.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF080"]
+      "chars": [
+        "\uF080"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/arrow_left.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF081"]
+      "chars": [
+        "\uF081"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/arrow_up.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF082"]
+      "chars": [
+        "\uF082"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/arrow_down.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF083"]
+      "chars": [
+        "\uF083"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/arrow_horizontal.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF084"]
+      "chars": [
+        "\uF084"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/arrow_vertical.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF085"]
+      "chars": [
+        "\uF085"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_a.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF086"]
+      "chars": [
+        "\uF086"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_b.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF087"]
+      "chars": [
+        "\uF087"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_c.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF088"]
+      "chars": [
+        "\uF088"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_d.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF089"]
+      "chars": [
+        "\uF089"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_e.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF08A"]
+      "chars": [
+        "\uF08A"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_f.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF08B"]
+      "chars": [
+        "\uF08B"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_g.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF08C"]
+      "chars": [
+        "\uF08C"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_h.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF08D"]
+      "chars": [
+        "\uF08D"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_i.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF08E"]
+      "chars": [
+        "\uF08E"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_j.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF08F"]
+      "chars": [
+        "\uF08F"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_k.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF090"]
+      "chars": [
+        "\uF090"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_l.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF091"]
+      "chars": [
+        "\uF091"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_m.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF092"]
+      "chars": [
+        "\uF092"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_n.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF093"]
+      "chars": [
+        "\uF093"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_o.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF094"]
+      "chars": [
+        "\uF094"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_p.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF095"]
+      "chars": [
+        "\uF095"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_q.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF096"]
+      "chars": [
+        "\uF096"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_r.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF097"]
+      "chars": [
+        "\uF097"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_s.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF098"]
+      "chars": [
+        "\uF098"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_t.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF099"]
+      "chars": [
+        "\uF099"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_u.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF09A"]
+      "chars": [
+        "\uF09A"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_v.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF09B"]
+      "chars": [
+        "\uF09B"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_w.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF09C"]
+      "chars": [
+        "\uF09C"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_x.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF09D"]
+      "chars": [
+        "\uF09D"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_y.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF09E"]
+      "chars": [
+        "\uF09E"
+      ]
     },
     {
       "type": "bitmap",
       "file": "easybitmaps:font/smallcap_z.png",
       "height": 7,
       "ascent": 7,
-      "chars": ["\uF09F"]
+      "chars": [
+        "\uF09F"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "easybitmaps:font/space.png",
+      "height": 7,
+      "ascent": 7,
+      "chars": [
+        "\uF100"
+      ]
     },
     {
       "type": "space",
