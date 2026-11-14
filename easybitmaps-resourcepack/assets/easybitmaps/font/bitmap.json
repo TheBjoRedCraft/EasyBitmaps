@@ -3,8 +3,8 @@
     {
       "type": "bitmap",
       "file": "easybitmaps:font/background.png",
-      "height": 7,
-      "ascent": 7,
+      "height": 9,
+      "ascent": 8,
       "chars": [
         "\uF0FF"
       ]
