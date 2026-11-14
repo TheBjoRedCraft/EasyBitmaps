@@ -5,7 +5,6 @@ import dev.thebjoredcraft.easybitmaps.common.EasyBitmaps
 import dev.thebjoredcraft.easybitmaps.paper.plugin
 import io.papermc.paper.command.brigadier.Commands
 import io.papermc.paper.plugin.lifecycle.event.types.LifecycleEvents
-import net.kyori.adventure.text.format.NamedTextColor
 import net.kyori.adventure.text.format.ShadowColor
 
 object EasyBitmapsCommand {
@@ -25,7 +24,7 @@ object EasyBitmapsCommand {
                                     EasyBitmaps.render(
                                         "Shadow included!",
                                         shadowColor = ShadowColor.shadowColor(
-                                            NamedTextColor.RED,
+                                            204, 68, 68,
                                             200
                                         )
                                     )
